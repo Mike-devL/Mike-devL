@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Miguel 👋 - Developer from Oaxaca, MX
 
-<!--
-**Mike-devL/Mike-devL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter & Web Developer | Freelancer
 
-Here are some ideas to get you started:
+I help businesses build mobile apps and websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I build:**
+- 📱 Mobile Apps with Flutter
+- 🌐 Websites (Landing pages, Business sites)
+- 🔥 Firebase & APIs
+
+**Tech Stack:** Flutter • Dart • HTML • CSS • JavaScript • Firebase
+
+- 🔭 Currently working on freelance projects
+- 🌱 Open for new opportunities
+- 📫 Contact: contacto.mikedev@gmail.com
+
+👇 Check my projects below
